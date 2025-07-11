@@ -1,7 +1,6 @@
 # restaurante MVC Json
-Para o curso do IFSP 2025
+Para o curso do web dinâmico IFSP 2025
 
-Falta organizar os controllers e rotas
 Abrir o vscode
 Clonar o repsoitório https://github.com/BiancaPedrosa/restaurante/
 abrir o terminal do vscode
