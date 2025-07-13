@@ -1,4 +1,4 @@
-const ReservationModel = require('../models/reservationModel');
+const ReservationModel = require('../models/ReservationModel');
 
 const reservationModel = new ReservationModel();
 
