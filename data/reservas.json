@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Augusto",
+    "email": "augusto@ifsp.com",
+    "data": "2025-07-20",
+    "hora": "20:00",
+    "pessoas": "6",
+    "observacoes": ""
+  },
+  {
+    "nome": "Lúcio",
+    "email": "lucio@ifsp.edu.br",
+    "data": "2025-03-22",
+    "hora": "22:00",
+    "pessoas": "8",
+    "observacoes": ""
+  },
+  {
+    "nome": "Fernando",
+    "email": "fernando@hotmail.com",
+    "data": "2025-07-31",
+    "hora": "20:00",
+    "pessoas": "4",
+    "observacoes": ""
+  }
+]
